@@ -1,0 +1,28 @@
+{
+  "Main": {
+    "NetworkName": "Goerli",
+    "ChainId": 12345,
+    "Explorer": "https://goerli.etherscan.io",
+    "SupportsEIP1559": true,
+    "Contracts": {
+      "PolygonZkEVM": "0x0A9118Fe8D590D1fA53880A8719028386AAC28Bf",
+      "PolygonZkEVMProxy": "0x0A9118Fe8D590D1fA53880A8719028386AAC28Bf",
+      "PolygonZkEVMBridge": "0xeA7ad75F6F685FdF0B8Bf6C6c254011018697D2d",
+      "PolygonZkEVMBridgeProxy": "0xeA7ad75F6F685FdF0B8Bf6C6c254011018697D2d",
+      "PolygonZkEVMGlobalExitRoot": "0x5C3Fd2fcDa765c5B12cBb28218c36bf26a3479fD",
+      "PolygonZkEVMGlobalExitRootProxy": "0x5C3Fd2fcDa765c5B12cBb28218c36bf26a3479fD",
+      "ZkEVMWrapper": "0xDb5328c50B166545d1e830BB509944d4B98CBb23"
+    }
+  },
+  "zkEVM": {
+    "NetworkName": "zkevm",
+    "ChainId": 12345,
+    "RPC": "https://localhost:8080",
+    "Explorer": "https://testnet-zkevm.polygonscan.com",
+    "SupportsEIP1559": false,
+    "Contracts": {
+      "PolygonZkEVMBridge": "0x4664e50299412d0DF00f90a90b092e13332D3C48",
+      "PolygonZkEVMGlobalExitRootL2": "0x0445924f136F7e18b180a5045E599b631f3D4670"
+    }
+  }
+}

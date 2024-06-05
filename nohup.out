@@ -1,0 +1,123 @@
+127.0.0.1 - - [01/Jun/2024 07:04:21] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:04:21] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:05:04] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:05:04] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:05:42] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:05:42] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:05:52] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:06:05] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 07:06:05] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+Terminated
+127.0.0.1 - - [01/Jun/2024 10:25:29] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:25:29] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:26:04] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:26:04] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:26:12] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:26:12] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:37:40] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:37:40] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:39:17] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:39:17] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:39:27] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 10:39:27] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:50:15] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:50:15] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:50:20] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:50:20] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:52:49] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:52:49] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:52:52] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 11:52:52] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:04:58] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:04:58] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:06:37] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:06:37] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:41] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:41] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:46] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:46] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:55] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [01/Jun/2024 12:07:55] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:18] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:18] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:26] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:26] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:30] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:30] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:45] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:45:45] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:07] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:07] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:17] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:17] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:50] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:46:50] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:21] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:21] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:30] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:30] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:38] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:47:38] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:48:03] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:48:03] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:48:08] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:48:08] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:50:27] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:50:27] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:52:16] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 06:52:16] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:01:53] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:01:53] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:03:12] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:03:12] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:07:58] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:07:58] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:14:44] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:14:44] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:42:11] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 07:42:11] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:05:24] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:05:24] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:06:58] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:06:58] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:10:40] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:10:40] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:11:31] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:11:31] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenGlobalExitRootL2.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:11:35] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:11:35] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:13:45] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 08:13:45] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/usr/lib/python3.10/http/server.py", line 1307, in <module>
+    test(
+  File "/usr/lib/python3.10/http/server.py", line 1258, in test
+    with ServerClass(addr, HandlerClass) as httpd:
+  File "/usr/lib/python3.10/socketserver.py", line 452, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.10/http/server.py", line 1301, in server_bind
+    return super().server_bind()
+  File "/usr/lib/python3.10/http/server.py", line 137, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.10/socketserver.py", line 466, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+Terminated
+127.0.0.1 - - [02/Jun/2024 14:21:35] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:21:35] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:34:23] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:34:23] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:34:37] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:34:37] "GET /network/zkevm/0.0.1/artifacts/zkevm/EigenBridge.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:37:15] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 14:37:15] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 15:00:35] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 15:00:35] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 15:02:48] "GET /network/zkevm/0.0.1/index.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 15:02:48] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/Jun/2024 15:03:12] "GET /network/zkevm/0.0.1/artifacts/zkevm/ERC20.json HTTP/1.1" 200 -
+Terminated
